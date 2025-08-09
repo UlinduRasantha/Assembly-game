@@ -18,3 +18,28 @@
 5. Incorrect Guesses: A programming language is eliminated.
 6. Lose the game if you make too many incorrect guesses.
 7. Win the game by correctly guessing all letters in the word.
+
+---
+
+
+## Technologies Used
+- React: For building the interactive UI.
+- JavaScript: For game logic and dynamic rendering.
+- CSS: For styling and animations.
+
+---
+
+## Installation
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/assembly-endgame.git
+   cd assembly-endgam
+
+2.  **Install dependencies:**
+    ```bash
+    npm install
+
+3. **Start the development server:**
+     ```bash
+    npm run dev
