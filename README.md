@@ -37,3 +37,8 @@
 3. **Start the development server:**
      ```bash
     npm run dev
+---
+
+## Credits
+This project was developed as part of <a href="https://scrimba.com/learn-react-c0e" target="_blank">Scrimba's Frontend Developer Path</a>. A big thanks to the instructors and Scrimba community for their support.
+
