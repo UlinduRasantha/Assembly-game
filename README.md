@@ -1,4 +1,4 @@
-# React + Vite
+# Assembly-game
 
 ## Overview
 - Assembly Endgame is a word-guessing game inspired by the classic game Hangman. Developed as part of Scrimba's course project, the goal is to guess the hidden word within a limited number of attempts while avoiding incorrect guesses. Each incorrect guess "eliminates" a programming language, and the game is over when all languages are lost.
@@ -28,7 +28,7 @@
 
    ```bash
    git clone https://github.com/UlinduRasantha/Assembly-game.git
-   cd assembly-endgam
+   cd Assembly-game
 
 2.  **Install dependencies:**
     ```bash
@@ -39,6 +39,17 @@
     npm run dev
 ---
 ##  **Project Structure**
+
+    ASSEMBLY--ENDGAME/
+    ├── src/
+    │   ├── assets/
+    │   ├── App.jsx
+    │   ├── index.css
+    │   ├── index.jsx
+    │   ├── languages.js
+    │   ├── utils.js
+    │   └── words.js
+    ├── index.html
   
 
 ---
