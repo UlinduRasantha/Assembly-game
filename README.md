@@ -39,22 +39,7 @@
     npm run dev
 ---
 ##  **Project Structure**
-    src/
-    │
-    ├── components/         # React components
-    │   ├── App.jsx         # Main component
-    │   ├── Keyboard.jsx    # Letter keyboard component
-    │   ├── GameStatus.jsx  # Displays game status (win/lose)
-    │   └── Languages.jsx   # Programming languages visualization
-    │
-    ├── utils/              # Utility functions
-    │   └── getFarewellText.js # Generates farewell messages
-    │
-    ├── assets/             # Static files (e.g., icons, images)
-    │
-    ├── App.css             # Main stylesheet
-    ├── index.js            # Application entry point
-    └── index.html          # Static HTML template
+  
 
 ---
 
